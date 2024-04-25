@@ -2,6 +2,7 @@ package org.example.deneme123;
 //GÖKBERK EFE ÇETİNKAYA
 //B211202373
 //SOFTWARE VERIFICATION AND VALIDATION - JUNIT5HOMEWORK
+// Github RepositoryAdress: https://github.com/GokberkEfe/JunitTestHomework
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
